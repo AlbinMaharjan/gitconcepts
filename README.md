@@ -1,3 +1,3 @@
-earing git concepts
+learing git concepts
 
 
