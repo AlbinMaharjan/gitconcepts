@@ -1,4 +1,4 @@
-#!bin/bash/
+#helloo
 #check wheather there is apache 
 sudo apt update 
 sudo apt install apache2
