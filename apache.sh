@@ -1,4 +1,4 @@
-#!bin/bash/
+#hello devops
 sudo apt update 
 sudo apt install apache2
 sudo systemctl status apachei2
